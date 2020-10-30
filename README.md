@@ -14,6 +14,15 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Deployed Link
 
+https://ydeek91.github.io/EmployeeDirectory/
+
+
+
+
+
+
+
+
 # License 
 
 # Contact
